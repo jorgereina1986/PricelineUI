@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:gravity="top"
+    app:popupTheme="@style/AppTheme.PopupOverlay"
+    app:title="Priceline.com"
+    app:titleTextColor="#fff"
+    app:titleMargin="@dimen/nav_header_vertical_spacing" />
